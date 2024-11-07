@@ -1,5 +1,5 @@
 👋 Hi there! I’m Harsha Voonna
-🔹 Data Enthusiast | AI & ML Explorer | Tech Innovator | Supply Chain Product Developer
+🔹 Data Enthusiast | AI & ML Explorer | Tech Innovator
 
 I’m passionate about building tech solutions that make a difference. With hands-on experience in IoT, data analytics, and machine learning, I’m constantly exploring ways to apply these technologies to optimize supply chains and drive operational efficiency. My projects often bridge the gap between hardware and software, providing end-to-end solutions.
 
